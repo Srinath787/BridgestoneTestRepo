@@ -1,3 +1,3 @@
-# BridgestoneTestRepo test test
+# BridgestoneTestRepo test
 
 Updating file for testing purpose
